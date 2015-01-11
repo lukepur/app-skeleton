@@ -22,3 +22,10 @@ Installation
 3. Update origin to new project's remote repository
 
     `git remote set-url origin https://github.com/<username>/<project_name>.git`
+
+Run server
+----------
+
+`npm start`
+
+This will run nodemon which watches server javascript files and reloads the server when they are changed.
