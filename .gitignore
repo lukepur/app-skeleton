@@ -2,3 +2,4 @@ node_modules/
 .idea/
 public/lib/
 public/stylesheets/main.css
+npm-debug.log
